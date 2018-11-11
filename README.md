@@ -1,7 +1,7 @@
 # Image-classification
 
 ## Topic
-: Classify subcellular protein patterns in human cells
+Classify subcellular protein patterns in human cells
 
 ## Challenge
 - Dataset comprises 28 different cell types
